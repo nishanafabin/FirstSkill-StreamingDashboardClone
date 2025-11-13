@@ -57,7 +57,7 @@
 
 ## Links
 - **GitHub Repository:** https://github.com/nishanafabin/FirstSkill-StreamingDashboardClone.git
-- **Live Demo:** [Deploy to Vercel and add URL here]
+- **Live Demo:** https://first-skill-streaming-dashboard-clo.vercel.app/
 
 ## Time Efficiency
 Using AI assistance reduced development time by approximately 70%, allowing focus on:
